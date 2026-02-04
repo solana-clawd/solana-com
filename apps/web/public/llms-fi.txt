@@ -63,29 +63,41 @@ Tämä dokumentaatio tarjoaa kattavat oppaat, viitteet ja oppitunnit kehittäjil
 - [Vastaanota maksuja](https://solana.com/docs/payments/accept-payments): Integroi kassa ja maksujen vastaanotto
 - [Tuotantovalmius](https://solana.com/docs/payments/production-readiness): Valmistele maksujärjestelmät mainnet-verkkoon
 
+## Opi
+
+- [Mikä on Solana](https://solana.com/learn/what-is-solana): Johdatus Solanaan aloittelijoille
+- [Mikä on lompakko](https://solana.com/learn/what-is-a-wallet): Kryptolompakoiden ymmärtäminen
+- [Aloittaminen](https://solana.com/learn/getting-started): Ensimmäiset askeleet Solanan kanssa
+- [Johdatus DeFi:hin](https://solana.com/learn/introduction-to-defi-on-solana): Hajautettu rahoitus Solanalla
+- [Johdatus tokeneihin](https://solana.com/learn/introduction-to-solana-tokens): SPL-tokenien ymmärtäminen
+
 ## Keittokirja
 
 - [Lähetä SOL](https://solana.com/developers/cookbook/transactions/send-sol): Siirrä SOL-tokeneita tilien välillä
-- [Luo tili](https://solana.com/developers/cookbook/accounts/create-account): Luo tilejä Solanassa
+- [Luo tili](https://solana.com/developers/cookbook/accounts/create-account): Luo tilejä Solanalla
 - [Hae saldo](https://solana.com/developers/cookbook/accounts/get-account-balance): Hae SOL-saldo
 - [Lisää prioriteettimaksuja](https://solana.com/developers/cookbook/transactions/add-priority-fees): Nosta transaktion prioriteettia
 - [Luo keypair](https://solana.com/developers/cookbook/wallets/create-keypair): Generoi uusia keypair-avainpareja
 
 ## Oppaat
 
-- [AI-työkalut Solanassa](https://solana.com/developers/guides/getstarted/intro-to-ai): Yleiskatsaus AI-työkaluihin ja työnkulkuihin Solanassa
+- [AI-työkalut Solanalla](https://solana.com/developers/guides/getstarted/intro-to-ai): Yleiskatsaus AI-työkaluihin ja työnkulkuihin Solanalla
 - [Johdatus x402:een](https://solana.com/developers/guides/getstarted/intro-to-x402): Rakenna yksinkertainen HTTP 402 -maksuvirta
-- [Rakenna x402-fasilitoija](https://solana.com/developers/guides/getstarted/build-a-x402-facilitator): Päästä päähän x402-fasilitoija-demo
+- [Rakenna x402-fasilitaattori](https://solana.com/developers/guides/getstarted/build-a-x402-facilitator): Päästä päähän x402-fasilitaattori-demo
 - [Actions ja Blinks](https://solana.com/developers/guides/advanced/actions): Rakenna Solana Actions -rajapintoja ja jaettavia blinkejä
-- [Pelinkehityksen pika-aloitus](https://solana.com/developers/guides/games/getting-started-with-game-development): Aloita pelien rakentaminen Solanassa
+- [Pelinkehityksen pika-aloitus](https://solana.com/developers/guides/games/getting-started-with-game-development): Aloita pelien rakentaminen Solanalla
+- [DePIN-aloittaminen](https://solana.com/developers/guides/depin/getting-started): Rakenna hajautettua fyysistä infrastruktuuria Solanalla
+- [Kestävät noncet](https://solana.com/developers/guides/advanced/introduction-to-durable-nonces): Käytä kestäviä nonceja offline-allekirjoitukseen
+- [Hakutaulukot](https://solana.com/developers/guides/advanced/lookup-tables): Pienennä transaktion kokoa osoitehakutaulukoilla
+- [Transfer Hook](https://solana.com/developers/guides/token-extensions/transfer-hook): Toteuta mukautettua logiikkaa token-siirtoihin
 
-## Ohjelmakehitys
+## Ohjelmointi
 
 - [Ohjelmien kehittäminen](https://solana.com/docs/programs): Rakenna on-chain-ohjelmia
 - [Anchor-kehys](https://solana.com/docs/programs/anchor): Korkean tason kehys Solana-ohjelmille
-- [Ohjelmien testaus](https://solana.com/docs/programs/testing): Testaa ohjelmia bankrunilla ja muilla työkaluilla
+- [Ohjelmien testaus](https://solana.com/docs/programs/testing): testaa ohjelmia bankrunilla ja muilla työkaluilla
 
 ## Valinnainen
 
-- [Solana StackExchange](https://solana.stackexchange.com): Yhteisön Q&A
-- [Validatorin asennus](https://docs.anza.xyz/operations/setup-a-validator): Aja validator-solmua
+- [Solana StackExchange](https://solana.stackexchange.com): yhteisön kysymykset ja vastaukset
+- [Validaattorin asennus](https://docs.anza.xyz/operations/setup-a-validator): suorita validator-solmu

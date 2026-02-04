@@ -63,13 +63,21 @@ Deze documentatie biedt uitgebreide handleidingen, referenties en tutorials voor
 - [Betalingen accepteren](https://solana.com/docs/payments/accept-payments): Integreer checkout en betalingsacceptatie
 - [Productierijpheid](https://solana.com/docs/payments/production-readiness): Bereid betalingssystemen voor op mainnet
 
+## Leren
+
+- [Wat is Solana](https://solana.com/learn/what-is-solana): Introductie tot Solana voor beginners
+- [Wat is een wallet](https://solana.com/learn/what-is-a-wallet): Cryptowallets begrijpen
+- [Aan de slag](https://solana.com/learn/getting-started): Eerste stappen met Solana
+- [Introductie tot DeFi](https://solana.com/learn/introduction-to-defi-on-solana): Gedecentraliseerde financiën op Solana
+- [Introductie tot tokens](https://solana.com/learn/introduction-to-solana-tokens): SPL-tokens begrijpen
+
 ## Kookboek
 
-- [SOL verzenden](https://solana.com/developers/cookbook/transactions/send-sol): Draag SOL over tussen accounts
-- [Account aanmaken](https://solana.com/developers/cookbook/accounts/create-account): Maak accounts aan op Solana
-- [Saldo ophalen](https://solana.com/developers/cookbook/accounts/get-account-balance): Haal SOL-saldo op
-- [Prioriteitskosten toevoegen](https://solana.com/developers/cookbook/transactions/add-priority-fees): Verhoog transactieprioriteit
-- [Keypair aanmaken](https://solana.com/developers/cookbook/wallets/create-keypair): Genereer nieuwe keypairs
+- [SOL versturen](https://solana.com/developers/cookbook/transactions/send-sol): SOL overdragen tussen accounts
+- [Account aanmaken](https://solana.com/developers/cookbook/accounts/create-account): Accounts aanmaken op Solana
+- [Saldo ophalen](https://solana.com/developers/cookbook/accounts/get-account-balance): SOL-saldo opvragen
+- [Prioriteitskosten toevoegen](https://solana.com/developers/cookbook/transactions/add-priority-fees): Transactieprioriteit verhogen
+- [Keypair aanmaken](https://solana.com/developers/cookbook/wallets/create-keypair): Nieuwe keypairs genereren
 
 ## Handleidingen
 
@@ -77,15 +85,19 @@ Deze documentatie biedt uitgebreide handleidingen, referenties en tutorials voor
 - [Introductie tot x402](https://solana.com/developers/guides/getstarted/intro-to-x402): Bouw een eenvoudige HTTP 402-betalingsstroom
 - [Bouw een x402-facilitator](https://solana.com/developers/guides/getstarted/build-a-x402-facilitator): End-to-end x402-facilitatordemo
 - [Actions en blinks](https://solana.com/developers/guides/advanced/actions): Bouw Solana Actions API's en deelbare blinks
-- [Quickstart voor game-ontwikkeling](https://solana.com/developers/guides/games/getting-started-with-game-development): Begin met het bouwen van games op Solana
+- [Snelstart game-ontwikkeling](https://solana.com/developers/guides/games/getting-started-with-game-development): Begin met het bouwen van games op Solana
+- [Aan de slag met DePIN](https://solana.com/developers/guides/depin/getting-started): Bouw gedecentraliseerde fysieke infrastructuur op Solana
+- [Durable nonces](https://solana.com/developers/guides/advanced/introduction-to-durable-nonces): Gebruik durable nonces voor offline ondertekening
+- [Opzoektabellen](https://solana.com/developers/guides/advanced/lookup-tables): Verklein transactiegrootte met adresopzoektabellen
+- [Transfer hook](https://solana.com/developers/guides/token-extensions/transfer-hook): Implementeer aangepaste logica bij tokenoverdrachten
 
-## Programmaontwikkeling
+- Programmaontwikkeling
 
 - [Programma's ontwikkelen](https://solana.com/docs/programs): Bouw on-chain programma's
 - [Anchor-framework](https://solana.com/docs/programs/anchor): High-level framework voor Solana-programma's
-- [Programma's testen](https://solana.com/docs/programs/testing): Test programma's met bankrun en andere tools
+- [Programma's testen](https://solana.com/docs/programs/testing): test programma's met bankrun en andere tools
 
 ## Optioneel
 
-- [Solana StackExchange](https://solana.stackexchange.com): Community Q&A
-- [Validator-installatie](https://docs.anza.xyz/operations/setup-a-validator): Draai een validator-node
+- [Solana StackExchange](https://solana.stackexchange.com): community Q&A
+- [Validator-installatie](https://docs.anza.xyz/operations/setup-a-validator): draai een validator-node

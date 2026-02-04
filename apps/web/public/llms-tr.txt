@@ -63,25 +63,37 @@ Bu dokümantasyon, Solana üzerinde geliştirme yapan geliştiriciler için kaps
 - [Ödeme kabul etme](https://solana.com/docs/payments/accept-payments): Ödeme ve ödeme kabulünü entegre edin
 - [Üretim hazırlığı](https://solana.com/docs/payments/production-readiness): Ödeme sistemlerini mainnet için hazırlayın
 
+## Öğren
+
+- [Solana nedir](https://solana.com/learn/what-is-solana): Yeni başlayanlar için Solana'ya giriş
+- [Cüzdan nedir](https://solana.com/learn/what-is-a-wallet): Kripto cüzdanlarını anlamak
+- [Başlarken](https://solana.com/learn/getting-started): Solana ile ilk adımlar
+- [DeFi'ye giriş](https://solana.com/learn/introduction-to-defi-on-solana): Solana üzerinde merkeziyetsiz finans
+- [Token'lara giriş](https://solana.com/learn/introduction-to-solana-tokens): SPL token'larını anlamak
+
 ## Cookbook
 
-- [SOL gönderme](https://solana.com/developers/cookbook/transactions/send-sol): Hesaplar arasında SOL transferi yapın
-- [Hesap oluşturma](https://solana.com/developers/cookbook/accounts/create-account): Solana'da hesap oluşturun
-- [Bakiye sorgulama](https://solana.com/developers/cookbook/accounts/get-account-balance): SOL bakiyesini alın
-- [Öncelik ücreti ekleme](https://solana.com/developers/cookbook/transactions/add-priority-fees): İşlem önceliğini artırın
-- [Keypair oluşturma](https://solana.com/developers/cookbook/wallets/create-keypair): Yeni keypair'ler oluşturun
+- [SOL gönder](https://solana.com/developers/cookbook/transactions/send-sol): Hesaplar arasında SOL transferi
+- [Hesap oluştur](https://solana.com/developers/cookbook/accounts/create-account): Solana üzerinde hesap oluşturma
+- [Bakiye sorgula](https://solana.com/developers/cookbook/accounts/get-account-balance): SOL bakiyesini görüntüleme
+- [Öncelik ücreti ekle](https://solana.com/developers/cookbook/transactions/add-priority-fees): İşlem önceliğini artırma
+- [Keypair oluştur](https://solana.com/developers/cookbook/wallets/create-keypair): Yeni keypair oluşturma
 
 ## Kılavuzlar
 
-- [Solana'da yapay zeka araçları](https://solana.com/developers/guides/getstarted/intro-to-ai): Solana'daki yapay zeka araçlarına ve iş akışlarına genel bakış
-- [x402'ye giriş](https://solana.com/developers/guides/getstarted/intro-to-x402): Basit bir HTTP 402 ödeme akışı oluşturun
-- [Bir x402 kolaylaştırıcısı oluşturun](https://solana.com/developers/guides/getstarted/build-a-x402-facilitator): Uçtan uca x402 kolaylaştırıcı demosu
-- [Actions ve Blinks](https://solana.com/developers/guides/advanced/actions): Solana Actions API'leri ve paylaşılabilir blinks oluşturun
-- [Oyun geliştirme hızlı başlangıcı](https://solana.com/developers/guides/games/getting-started-with-game-development): Solana'da oyun geliştirmeye başlayın
+- [Solana üzerinde AI araçları](https://solana.com/developers/guides/getstarted/intro-to-ai): Solana üzerindeki AI araçlarına ve iş akışlarına genel bakış
+- [x402'ye giriş](https://solana.com/developers/guides/getstarted/intro-to-x402): Basit bir HTTP 402 ödeme akışı oluşturma
+- [x402 kolaylaştırıcı oluştur](https://solana.com/developers/guides/getstarted/build-a-x402-facilitator): Uçtan uca x402 kolaylaştırıcı demosu
+- [Actions ve Blinks](https://solana.com/developers/guides/advanced/actions): Solana Actions API'leri ve paylaşılabilir blink'ler oluşturma
+- [Oyun geliştirme hızlı başlangıç](https://solana.com/developers/guides/games/getting-started-with-game-development): Solana üzerinde oyun geliştirmeye başlama
+- [DePIN'e başlarken](https://solana.com/developers/guides/depin/getting-started): Solana üzerinde merkeziyetsiz fiziksel altyapı oluşturma
+- [Durable nonce'lar](https://solana.com/developers/guides/advanced/introduction-to-durable-nonces): Çevrimdışı imzalama için durable nonce kullanımı
+- [Lookup tabloları](https://solana.com/developers/guides/advanced/lookup-tables): Adres lookup tabloları ile işlem boyutunu azaltma
+- [Transfer hook](https://solana.com/developers/guides/token-extensions/transfer-hook): Token transferlerinde özel mantık uygulama
 
 ## Program geliştirme
 
-- [Program geliştirme](https://solana.com/docs/programs): Zincir üstü programlar oluşturun
+- [Program geliştirme](https://solana.com/docs/programs): Zincir üstü programlar oluşturma
 - [Anchor framework](https://solana.com/docs/programs/anchor): Solana programları için üst düzey framework
 - [Programları test etme](https://solana.com/docs/programs/testing): Programları bankrun ve diğer araçlarla test edin
 

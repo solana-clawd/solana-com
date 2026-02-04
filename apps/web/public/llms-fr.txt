@@ -63,29 +63,41 @@ Cette documentation fournit des guides complets, des références et des tutorie
 - [Accepter des paiements](https://solana.com/docs/payments/accept-payments) : intégrez le paiement et l'acceptation de paiements
 - [Préparation à la production](https://solana.com/docs/payments/production-readiness) : préparez les systèmes de paiement pour le mainnet
 
+## Apprendre
+
+- [Qu'est-ce que Solana](https://solana.com/learn/what-is-solana) : introduction à Solana pour les débutants
+- [Qu'est-ce qu'un portefeuille](https://solana.com/learn/what-is-a-wallet) : comprendre les portefeuilles crypto
+- [Premiers pas](https://solana.com/learn/getting-started) : premières étapes avec Solana
+- [Introduction à la DeFi](https://solana.com/learn/introduction-to-defi-on-solana) : la finance décentralisée sur Solana
+- [Introduction aux tokens](https://solana.com/learn/introduction-to-solana-tokens) : comprendre les tokens SPL
+
 ## Cookbook
 
-- [Envoyer des SOL](https://solana.com/developers/cookbook/transactions/send-sol) : transférez des SOL entre comptes
-- [Créer un compte](https://solana.com/developers/cookbook/accounts/create-account) : créez des comptes sur Solana
-- [Obtenir le solde](https://solana.com/developers/cookbook/accounts/get-account-balance) : récupérez le solde en SOL
-- [Ajouter des frais de priorité](https://solana.com/developers/cookbook/transactions/add-priority-fees) : augmentez la priorité des transactions
-- [Créer une keypair](https://solana.com/developers/cookbook/wallets/create-keypair) : générez de nouvelles keypairs
+- [Envoyer des SOL](https://solana.com/developers/cookbook/transactions/send-sol) : transférer des SOL entre comptes
+- [Créer un compte](https://solana.com/developers/cookbook/accounts/create-account) : créer des comptes sur Solana
+- [Obtenir le solde](https://solana.com/developers/cookbook/accounts/get-account-balance) : récupérer le solde en SOL
+- [Ajouter des frais de priorité](https://solana.com/developers/cookbook/transactions/add-priority-fees) : augmenter la priorité de transaction
+- [Créer une keypair](https://solana.com/developers/cookbook/wallets/create-keypair) : générer de nouvelles keypairs
 
 ## Guides
 
-- [Outils d'IA sur Solana](https://solana.com/developers/guides/getstarted/intro-to-ai) : aperçu des outils et flux de travail d'IA sur Solana
-- [Introduction à x402](https://solana.com/developers/guides/getstarted/intro-to-x402) : créez un flux de paiement HTTP 402 simple
+- [Outils IA sur Solana](https://solana.com/developers/guides/getstarted/intro-to-ai) : aperçu des outils et workflows IA sur Solana
+- [Introduction à x402](https://solana.com/developers/guides/getstarted/intro-to-x402) : créer un flux de paiement HTTP 402 simple
 - [Créer un facilitateur x402](https://solana.com/developers/guides/getstarted/build-a-x402-facilitator) : démo complète d'un facilitateur x402
-- [Actions et Blinks](https://solana.com/developers/guides/advanced/actions) : créez des API Solana Actions et des blinks partageables
-- [Démarrage rapide du développement de jeux](https://solana.com/developers/guides/games/getting-started-with-game-development) : commencez à créer des jeux sur Solana
+- [Actions et blinks](https://solana.com/developers/guides/advanced/actions) : créer des API Solana Actions et des blinks partageables
+- [Démarrage rapide du développement de jeux](https://solana.com/developers/guides/games/getting-started-with-game-development) : commencer à créer des jeux sur Solana
+- [Débuter avec DePIN](https://solana.com/developers/guides/depin/getting-started) : créer une infrastructure physique décentralisée sur Solana
+- [Nonces durables](https://solana.com/developers/guides/advanced/introduction-to-durable-nonces) : utiliser les nonces durables pour la signature hors ligne
+- [Tables de recherche](https://solana.com/developers/guides/advanced/lookup-tables) : réduire la taille des transactions avec les tables de recherche d'adresses
+- [Hook de transfert](https://solana.com/developers/guides/token-extensions/transfer-hook) : implémenter une logique personnalisée sur les transferts de tokens
 
 ## Développement de programmes
 
-- [Développer des programmes](https://solana.com/docs/programs) : créez des programmes on-chain
+- [Développer des programmes](https://solana.com/docs/programs) : créer des programmes on-chain
 - [Framework Anchor](https://solana.com/docs/programs/anchor) : framework de haut niveau pour les programmes Solana
-- [Tester des programmes](https://solana.com/docs/programs/testing) : testez les programmes avec bankrun et d'autres outils
+- [Programmes de test](https://solana.com/docs/programs/testing) : testez les programmes avec bankrun et d'autres outils
 
 ## Optionnel
 
 - [Solana StackExchange](https://solana.stackexchange.com) : questions-réponses de la communauté
-- [Configuration de validateur](https://docs.anza.xyz/operations/setup-a-validator) : exécutez un nœud validateur
+- [Configuration du validateur](https://docs.anza.xyz/operations/setup-a-validator) : exécutez un nœud validateur

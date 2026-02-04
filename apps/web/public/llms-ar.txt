@@ -63,29 +63,35 @@
 - [Accept Payments](https://solana.com/docs/payments/accept-payments): دمج الدفع وقبول المدفوعات
 - [Production Readiness](https://solana.com/docs/payments/production-readiness): إعداد أنظمة الدفع للشبكة الرئيسية
 
+## تعلّم
+
+- [ما هي سولانا](https://solana.com/learn/what-is-solana): مقدمة إلى سولانا للمبتدئين
+- [ما هي المحفظة](https://solana.com/learn/what-is-a-wallet): فهم محافظ العملات الرقمية
+- [البدء](https://solana.com/learn/getting-started): الخطوات الأولى مع سولانا
+- [مقدمة إلى التمويل اللامركزي](https://solana.com/learn/introduction-to-defi-on-solana): التمويل اللامركزي على سولانا
+- [مقدمة إلى الرموز](https://solana.com/learn/introduction-to-solana-tokens): فهم رموز SPL
+
 ## دليل الوصفات
 
-- [Send SOL](https://solana.com/developers/cookbook/transactions/send-sol): نقل SOL بين الحسابات
-- [Create Account](https://solana.com/developers/cookbook/accounts/create-account): إنشاء حسابات على سولانا
-- [Get Balance](https://solana.com/developers/cookbook/accounts/get-account-balance): استرجاع رصيد SOL
-- [Add Priority Fees](https://solana.com/developers/cookbook/transactions/add-priority-fees): زيادة أولوية المعاملة
-- [Create Keypair](https://solana.com/developers/cookbook/wallets/create-keypair): إنشاء أزواج مفاتيح جديدة
+- [إرسال SOL](https://solana.com/developers/cookbook/transactions/send-sol): نقل SOL بين الحسابات
+- [إنشاء حساب](https://solana.com/developers/cookbook/accounts/create-account): إنشاء حسابات على سولانا
+- [الحصول على الرصيد](https://solana.com/developers/cookbook/accounts/get-account-balance): استرجاع رصيد SOL
+- [إضافة رسوم الأولوية](https://solana.com/developers/cookbook/transactions/add-priority-fees): زيادة أولوية المعاملة
+- [إنشاء keypair](https://solana.com/developers/cookbook/wallets/create-keypair): توليد keypairs جديدة
 
-## الأدلة
+## أدلة
 
 - [أدوات الذكاء الاصطناعي على سولانا](https://solana.com/developers/guides/getstarted/intro-to-ai): نظرة عامة على أدوات وسير عمل الذكاء الاصطناعي على سولانا
 - [مقدمة إلى x402](https://solana.com/developers/guides/getstarted/intro-to-x402): بناء تدفق دفع HTTP 402 بسيط
 - [بناء ميسّر x402](https://solana.com/developers/guides/getstarted/build-a-x402-facilitator): عرض توضيحي شامل لميسّر x402
 - [الإجراءات والروابط التفاعلية](https://solana.com/developers/guides/advanced/actions): بناء واجهات برمجة تطبيقات إجراءات سولانا والروابط التفاعلية القابلة للمشاركة
-- [البدء السريع في تطوير الألعاب](https://solana.com/developers/guides/games/getting-started-with-game-development): ابدأ في بناء الألعاب على سولانا
+- [البدء السريع في تطوير الألعاب](https://solana.com/developers/guides/games/getting-started-with-game-development): ابدأ ببناء الألعاب على سولانا
+- [البدء مع DePIN](https://solana.com/developers/guides/depin/getting-started): بناء البنية التحتية المادية اللامركزية على سولانا
+- [الأرقام المميزة الدائمة](https://solana.com/developers/guides/advanced/introduction-to-durable-nonces): استخدام الأرقام المميزة الدائمة للتوقيع دون اتصال
+- [جداول البحث](https://solana.com/developers/guides/advanced/lookup-tables): تقليل حجم المعاملة باستخدام جداول البحث عن العناوين
+- [خطاف النقل](https://solana.com/developers/guides/token-extensions/transfer-hook): تنفيذ منطق مخصص على عمليات نقل الرموز
 
 ## تطوير البرامج
 
 - [تطوير البرامج](https://solana.com/docs/programs): بناء البرامج على السلسلة
 - [إطار عمل Anchor](https://solana.com/docs/programs/anchor): إطار عمل عالي المستوى لبرامج سولانا
-- [اختبار البرامج](https://solana.com/docs/programs/testing): اختبار البرامج باستخدام bankrun وأدوات أخرى
-
-## اختياري
-
-- [منصة StackExchange لسولانا](https://solana.stackexchange.com): أسئلة وأجوبة المجتمع
-- [إعداد المدقق](https://docs.anza.xyz/operations/setup-a-validator): تشغيل عقدة مدقق

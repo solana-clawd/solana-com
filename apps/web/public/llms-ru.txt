@@ -63,29 +63,41 @@
 - [Приём платежей](https://solana.com/docs/payments/accept-payments): интеграция оплаты и приёма платежей
 - [Готовность к продакшену](https://solana.com/docs/payments/production-readiness): подготовка платёжных систем к запуску в основной сети
 
+## Обучение
+
+- [Что такое Solana](https://solana.com/learn/what-is-solana): Введение в Solana для начинающих
+- [Что такое кошелёк](https://solana.com/learn/what-is-a-wallet): Понимание криптокошельков
+- [Начало работы](https://solana.com/learn/getting-started): Первые шаги с Solana
+- [Введение в DeFi](https://solana.com/learn/introduction-to-defi-on-solana): Децентрализованные финансы на Solana
+- [Введение в токены](https://solana.com/learn/introduction-to-solana-tokens): Основы SPL токенов
+
 ## Кулинарная книга
 
-- [Отправить SOL](https://solana.com/developers/cookbook/transactions/send-sol): перевод SOL между аккаунтами
-- [Создать аккаунт](https://solana.com/developers/cookbook/accounts/create-account): создание аккаунтов в Solana
-- [Получить баланс](https://solana.com/developers/cookbook/accounts/get-account-balance): получение баланса SOL
-- [Добавить приоритетные комиссии](https://solana.com/developers/cookbook/transactions/add-priority-fees): увеличение приоритета транзакции
-- [Создать keypair](https://solana.com/developers/cookbook/wallets/create-keypair): генерация новых keypair
+- [Отправить SOL](https://solana.com/developers/cookbook/transactions/send-sol): Перевод SOL между аккаунтами
+- [Создать аккаунт](https://solana.com/developers/cookbook/accounts/create-account): Создание аккаунтов в Solana
+- [Получить баланс](https://solana.com/developers/cookbook/accounts/get-account-balance): Получение баланса SOL
+- [Добавить приоритетные комиссии](https://solana.com/developers/cookbook/transactions/add-priority-fees): Повышение приоритета транзакции
+- [Создать keypair](https://solana.com/developers/cookbook/wallets/create-keypair): Генерация новых keypair
 
 ## Руководства
 
 - [AI-инструменты на Solana](https://solana.com/developers/guides/getstarted/intro-to-ai): Обзор AI-инструментов и рабочих процессов на Solana
 - [Введение в x402](https://solana.com/developers/guides/getstarted/intro-to-x402): Создание простого платежного процесса HTTP 402
-- [Создание x402-фасилитатора](https://solana.com/developers/guides/getstarted/build-a-x402-facilitator): Демонстрация работы фасилитатора x402 от начала до конца
-- [Actions и Blinks](https://solana.com/developers/guides/advanced/actions): Создание Solana Actions API и расшариваемых blinks
-- [Быстрый старт по разработке игр](https://solana.com/developers/guides/games/getting-started-with-game-development): Начните создавать игры на Solana
+- [Создание x402 Facilitator](https://solana.com/developers/guides/getstarted/build-a-x402-facilitator): Демонстрация работы x402 facilitator от начала до конца
+- [Actions и Blinks](https://solana.com/developers/guides/advanced/actions): Создание Solana Actions API и расшаривание blinks
+- [Быстрый старт в разработке игр](https://solana.com/developers/guides/games/getting-started-with-game-development): Начало разработки игр на Solana
+- [DePIN: начало работы](https://solana.com/developers/guides/depin/getting-started): Создание децентрализованной физической инфраструктуры на Solana
+- [Устойчивые nonces](https://solana.com/developers/guides/advanced/introduction-to-durable-nonces): Использование устойчивых nonces для офлайн-подписей
+- [Таблицы поиска](https://solana.com/developers/guides/advanced/lookup-tables): Уменьшение размера транзакции с помощью таблиц поиска адресов
+- [Transfer Hook](https://solana.com/developers/guides/token-extensions/transfer-hook): Реализация кастомной логики при переводе токенов
 
 ## Разработка программ
 
 - [Разработка программ](https://solana.com/docs/programs): Создание on-chain программ
 - [Anchor Framework](https://solana.com/docs/programs/anchor): Высокоуровневый фреймворк для программ Solana
-- [Тестирование программ](https://solana.com/docs/programs/testing): Тестирование программ с помощью bankrun и других инструментов
+- [Тестирование программ](https://solana.com/docs/programs/testing): тестируйте программы с помощью bankrun и других инструментов
 
-## Дополнительно
+## Необязательно
 
-- [Solana StackExchange](https://solana.stackexchange.com): Вопросы и ответы сообщества
-- [Настройка validator](https://docs.anza.xyz/operations/setup-a-validator): Запуск узла validator
+- [Solana StackExchange](https://solana.stackexchange.com): вопросы и ответы сообщества
+- [Настройка validator](https://docs.anza.xyz/operations/setup-a-validator): запуск узла validator
